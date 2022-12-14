@@ -1,0 +1,18 @@
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Chương trình tính toán biểu thức toán học.cs
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
